@@ -30,6 +30,3 @@ function addListElement() {
 function removeDiv(div) {
     div.parentNode.parentNode.remove("divToRemove")
 }
-
-
-
